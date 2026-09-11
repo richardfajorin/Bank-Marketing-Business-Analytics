@@ -3,7 +3,7 @@
 ## Understanding Term Deposit Subscription Behavior
 
 **Richard Fajorin**
-AnalystLab Africa — Data Analytics Internship, Week 5
+AnalystLab Africa Data Analytics Internship, Week 5
 
 ### Overview
 
